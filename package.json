@@ -1,9 +1,8 @@
 {
-  "name": "14.gust-list",
+  "name": "16-more-guest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "types": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.22"
+    "@types/node": "^20.12.8"
   }
 }
