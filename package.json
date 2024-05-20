@@ -1,5 +1,5 @@
 {
-  "name": "36.t.shirts",
+  "name": "37.modify-t.shirt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^20.12.7"
   }
 }
